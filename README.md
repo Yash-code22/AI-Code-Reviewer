@@ -67,8 +67,6 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 ### Home Page
 ![Home](1.png)
 
