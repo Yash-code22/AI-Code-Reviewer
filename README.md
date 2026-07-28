@@ -23,6 +23,7 @@ It allows users to upload or paste source code and receive an intelligent review
 
 ## 🌐 Live Demo
 
+https://ai-code-reviewer-3e3an5umsc3kmvgvpmtrvx.streamlit.app/
 
 
 ## 🛠️ Tech Stack
