@@ -67,7 +67,22 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-*(Screenshots will be added soon.)*
+## 📷 Screenshots
+
+### Home Page
+![Home](1.png)
+
+### Code Review Dashboard
+![Dashboard](2.png)
+
+### PDF Report
+![PDF](3.png)
+
+### Chat with Code
+![Chat](4.png)
+
+### Live App
+![Live](5.png)
 
 ---
 
