@@ -21,6 +21,10 @@ It allows users to upload or paste source code and receive an intelligent review
 
 ---
 
+## 🌐 Live Demo
+
+https://YOUR-STREAMLIT-APP.streamlit.app
+
 ## 🛠️ Tech Stack
 
 - Python
