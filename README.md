@@ -72,17 +72,17 @@ streamlit run app.py
 ### Home Page
 ![Home](1.png)
 
-### Code Review Dashboard
-![Dashboard](2.png)
-
-### PDF Report
-![PDF](3.png)
+### Live App
+![Live](2.png)
 
 ### Chat with Code
-![Chat](4.png)
+![Chat](3.png)
 
-### Live App
-![Live](5.png)
+### Code Review Dashboard
+![Dashboard](4.png)
+
+### PDF Report
+![PDF](5.png)
 
 ---
 
